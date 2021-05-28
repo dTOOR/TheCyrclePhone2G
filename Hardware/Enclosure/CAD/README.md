@@ -13,6 +13,6 @@ Assembly tips:<br>
 - Enjoy your new round phone!
 <br>
 <br>
-Licenses: 
+Licenses: <br>
 - The CAD files are shared under a CERN-OHL-W-2.0 open hardware license.
 - This documentation is shared under a CC BY-SA 2.0 open license.
