@@ -1,4 +1,4 @@
-These are the enclosure files for the The Cyrcle Phone 2G which was featured in a successful 2016 Kickstarter campaign by dTOOR. (https://www.kickstarter.com/projects/dtoor/make-your-own-cyrcle-phone).
+These are the enclosure files for the The Cyrcle Phone 2G which was featured in a successful 2016 Kickstarter campaign by dTOOR. (https://www.kickstarter.com/projects/dtoor/make-your-own-cyrcle-phone), shared under a CERN open hardware license.
 <br><br>
 3D Printing Tips:<br>
 The walls are really thick, so no supports are needed. <br>
