@@ -1,4 +1,4 @@
-<p>These are the enclosure files for the The Cyrcle Phone 2G which was featured in a successful 2016 Kickstarter campaign by dTOOR. (https://www.kickstarter.com/projects/dtoor/make-your-own-cyrcle-phone).</p>
+<p>These are the enclosure files for the The Cyrcle Phone 2G, a phone which was featured in a successful 2016 Kickstarter campaign by dTOOR. (https://www.kickstarter.com/projects/dtoor/make-your-own-cyrcle-phone). These designs were created in Sketchup, and both the editable SKP files and 3D printable STL files are provided here.</p>
 <br><br>
 3D Printing Tips:<br>
 The walls are really thick, so no supports are needed. <br>
